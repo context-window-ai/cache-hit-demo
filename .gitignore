@@ -1,0 +1,27 @@
+# Environment
+.env
+
+# Generated context (large file, not useful to track)
+codebase_context.txt
+openrouter-python/
+
+# Results — commit these if you want to share your run
+# results/cache_benchmark_results.json
+# results/benchmark_chart.png
+# results/blog_post_draft.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
