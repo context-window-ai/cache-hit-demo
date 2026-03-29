@@ -1,0 +1,313 @@
+{
+  "A": [
+    {
+      "turn": 1,
+      "question": "How does authentication work in this SDK?",
+      "prompt_tokens": 544685,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 1.638555,
+      "latency_s": 20.32
+    },
+    {
+      "turn": 2,
+      "question": "Where are HTTP retries handled and what's the back",
+      "prompt_tokens": 544691,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 1.638573,
+      "latency_s": 17.19
+    },
+    {
+      "turn": 3,
+      "question": "What streaming response types are supported and ho",
+      "prompt_tokens": 544689,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 1.638567,
+      "latency_s": 9.56
+    },
+    {
+      "turn": 4,
+      "question": "How would I add request-level timeout overrides?",
+      "prompt_tokens": 544688,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 1.638564,
+      "latency_s": 8.19
+    },
+    {
+      "turn": 5,
+      "question": "Find all places where error handling could be impr",
+      "prompt_tokens": 544687,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 1.638561,
+      "latency_s": 9.25
+    },
+    {
+      "turn": 6,
+      "question": "How does the SDK handle provider fallbacks?",
+      "prompt_tokens": 544686,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 1.638558,
+      "latency_s": 9.16
+    },
+    {
+      "turn": 7,
+      "question": "What does the usage object look like in a response",
+      "prompt_tokens": 544688,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 1.638564,
+      "latency_s": 7.09
+    },
+    {
+      "turn": 8,
+      "question": "How would I add a middleware layer to log every re",
+      "prompt_tokens": 544689,
+      "cached_tokens": 0,
+      "completion_tokens": 299,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 1.638552,
+      "latency_s": 7.11
+    },
+    {
+      "turn": 9,
+      "question": "Where is rate limiting logic implemented, if anywh",
+      "prompt_tokens": 544687,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 1.638561,
+      "latency_s": 10.57
+    },
+    {
+      "turn": 10,
+      "question": "How would I extend this SDK to support a new provi",
+      "prompt_tokens": 544689,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 1.638567,
+      "latency_s": 9.5
+    }
+  ],
+  "B": [
+    {
+      "turn": 1,
+      "question": "How does authentication work in this SDK?",
+      "prompt_tokens": 544685,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 2.04705825,
+      "latency_s": 8.32
+    },
+    {
+      "turn": 2,
+      "question": "Where are HTTP retries handled and what's the back",
+      "prompt_tokens": 544691,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679613,
+      "latency_s": 9.37
+    },
+    {
+      "turn": 3,
+      "question": "What streaming response types are supported and ho",
+      "prompt_tokens": 544689,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679553,
+      "latency_s": 15.02
+    },
+    {
+      "turn": 4,
+      "question": "How would I add request-level timeout overrides?",
+      "prompt_tokens": 544688,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679523,
+      "latency_s": 8.3
+    },
+    {
+      "turn": 5,
+      "question": "Find all places where error handling could be impr",
+      "prompt_tokens": 544687,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679493,
+      "latency_s": 10.87
+    },
+    {
+      "turn": 6,
+      "question": "How does the SDK handle provider fallbacks?",
+      "prompt_tokens": 544686,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679463,
+      "latency_s": 9.13
+    },
+    {
+      "turn": 7,
+      "question": "What does the usage object look like in a response",
+      "prompt_tokens": 544688,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679523,
+      "latency_s": 8.85
+    },
+    {
+      "turn": 8,
+      "question": "How would I add a middleware layer to log every re",
+      "prompt_tokens": 544689,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679553,
+      "latency_s": 7.72
+    },
+    {
+      "turn": 9,
+      "question": "Where is rate limiting logic implemented, if anywh",
+      "prompt_tokens": 544687,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679493,
+      "latency_s": 9.84
+    },
+    {
+      "turn": 10,
+      "question": "How would I extend this SDK to support a new provi",
+      "prompt_tokens": 544689,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679553,
+      "latency_s": 9.55
+    }
+  ],
+  "C": [
+    {
+      "turn": 1,
+      "question": "How does authentication work in this SDK?",
+      "prompt_tokens": 544685,
+      "cached_tokens": 0,
+      "completion_tokens": 300,
+      "cache_hit_rate": 0.0,
+      "cost_usd": 2.04705825,
+      "latency_s": 17.57
+    },
+    {
+      "turn": 2,
+      "question": "Where are HTTP retries handled and what's the back",
+      "prompt_tokens": 544691,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679613,
+      "latency_s": 8.43
+    },
+    {
+      "turn": 3,
+      "question": "What streaming response types are supported and ho",
+      "prompt_tokens": 544689,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679553,
+      "latency_s": 9.28
+    },
+    {
+      "turn": 4,
+      "question": "How would I add request-level timeout overrides?",
+      "prompt_tokens": 544688,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679523,
+      "latency_s": 8.2
+    },
+    {
+      "turn": 5,
+      "question": "Find all places where error handling could be impr",
+      "prompt_tokens": 544687,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679493,
+      "latency_s": 10.97
+    },
+    {
+      "turn": 6,
+      "question": "How does the SDK handle provider fallbacks?",
+      "prompt_tokens": 544686,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679463,
+      "latency_s": 9.92
+    },
+    {
+      "turn": 7,
+      "question": "What does the usage object look like in a response",
+      "prompt_tokens": 544688,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679523,
+      "latency_s": 6.77
+    },
+    {
+      "turn": 8,
+      "question": "How would I add a middleware layer to log every re",
+      "prompt_tokens": 544689,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679553,
+      "latency_s": 8.13
+    },
+    {
+      "turn": 9,
+      "question": "Where is rate limiting logic implemented, if anywh",
+      "prompt_tokens": 544687,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679493,
+      "latency_s": 9.85
+    },
+    {
+      "turn": 10,
+      "question": "How would I extend this SDK to support a new provi",
+      "prompt_tokens": 544689,
+      "cached_tokens": 544671,
+      "completion_tokens": 300,
+      "cache_hit_rate": 1.0,
+      "cost_usd": 0.1679553,
+      "latency_s": 9.67
+    }
+  ],
+  "meta": {
+    "model": "anthropic/claude-sonnet-4-6",
+    "num_questions": 10,
+    "timestamp": "2026-03-28T20:54:57Z"
+  }
+}
